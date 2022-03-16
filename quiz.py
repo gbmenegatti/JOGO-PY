@@ -46,7 +46,7 @@ if resposta4 == "B":
     score = score+1
 else:print("Você errou!")
 
-print(f"Fim do jogo! Pontuação : + {score}")
+print(f"Fim do jogo! Pontuação :  {score}")
 
 
 
