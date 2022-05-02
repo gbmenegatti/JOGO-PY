@@ -22,7 +22,7 @@ if resposta2 == "C":
     score = score+1
 else: print("Você errou!")
 
-//Pergunta de     
+//Pergunta Ciências da Natureza // 
     
 print("PERGUNTA 3 - O processo de urbanização tem provocado o surgimento de inúmeros impactos ambientais. Dentre eles, podem ser citadas: As enchentes urbanas. \n A poluição visual. \n C- A conturbação. \n D) A bicefalia urbana.\n") 
 
