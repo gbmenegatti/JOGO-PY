@@ -6,10 +6,10 @@ if usuario != "S":
 score = 0
 print("Vamos começar!")
 
+//Perguntas de Português//
+
 print(" PERGUNTA 1 - Em qual dessas opções tem somente vogais? \n A) a,e,i,o,u  \n B) b, e ,d c, h \n C) t, u, v, x, z  \n D) a, e , i, k, g \n") 
 resposta1 = input ("Resposta: ")
-
-//Perguntas de Português//
 
 if resposta1 == "A":
     print("Você acertou!")
