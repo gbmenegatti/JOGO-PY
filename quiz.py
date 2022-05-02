@@ -22,7 +22,10 @@ if resposta2 == "C":
     score = score+1
 else: print("Você errou!")
 
-print("PERGUNTA 3 - José tinha 4 maçãs mas estava com fome e comeu 1. Com quantas maçãs José ficou? \n A) 4 maçãs  \n B) 3 maçãs \n C- 5 maçãs \n D) 1 maçã \n") 
+//Pergunta de     
+    
+print("PERGUNTA 3 - O processo de urbanização tem provocado o surgimento de inúmeros impactos ambientais. Dentre eles, podem ser citadas: As enchentes urbanas. \n A poluição visual. \n C- A conturbação. \n D) A bicefalia urbana.\n") 
+
 resposta3 = input ("Resposta: ")
 
 if resposta3 == "B":
