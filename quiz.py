@@ -2,7 +2,8 @@ from time import sleep
 
 print("Seja muito bem-vindo ao nosso quiz!")
 print()
-usuario = input("Podemos começar? (s/n): ")
+usuario = input("Podemos começar? (s/n): 
+ATENÇÃO!! Utilize apenas comandos em minúsculo e apenas os comandos solicitados ou perderá pontos")
 if usuario != "s":
     quit()
 
